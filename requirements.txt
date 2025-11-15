@@ -1,0 +1,17 @@
+streamlit
+semantic-router
+sentence-transformers
+chromadb
+pandas
+numpy
+groq
+python-dotenv
+regex
+sqlite3-binary
+requests
+tqdm
+lxml
+beautifulsoup4
+selenium
+webdriver-manager
+python-dateutil

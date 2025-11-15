@@ -1,0 +1,22 @@
+# ignore env and local DB
+app/.env
+.env
+web_scrapping/products.db
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env/
+
+# Local data
+web_scrapping/products.db
+
+# VSCode
+.vscode/
+
+# Streamlit cache / temp
+.streamlit/
+
+# macOS
+.DS_Store

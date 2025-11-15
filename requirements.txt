@@ -7,7 +7,6 @@ numpy
 groq
 python-dotenv
 regex
-sqlite3-binary
 requests
 tqdm
 lxml

@@ -9,11 +9,13 @@
 [![Embeddings: HF](https://img.shields.io/badge/Embeddings-HuggingFace-purple.svg)]()
 [![Vector Store: Chroma](https://img.shields.io/badge/Vector-Store--Chroma-magenta.svg)]()
 
-</div>
+</div>   <!-- CLOSE THE DIV HERE -->
 
+---
 
 ## 🌐 Live Demo
-🔗 [Try the E-Commerce Chatbot](app)
+
+[🔗 Try the E-Commerce Chatbot](https://e-commerce-chatbot-j2yncufmrn9m5wrkbeulye.streamlit.app/)
 
 --- 
 
@@ -176,5 +178,14 @@ Try these:
 | **Database**              | SQLite                                                      |
 | **Web Scraping**          | Selenium + BeautifulSoup                                    |
 | **Programming Language**  | Python                                                      |
+-------------------------------------------------------------------------------------------
+
+---
+## 🧑‍💻 Author
+
+**Vaishnavi Upadhyay**  
+✨ Built for research and educational purposes
+
+---
 
 
